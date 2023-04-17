@@ -1,0 +1,33 @@
+.bg-img1 {
+  height: 500px;
+  position: relative;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./images/banner.jpg);
+  background-size: cover;
+  background-color: #000;
+}
+.bg-img2 {
+  height: 500px;
+  position: relative;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./images/project_1.png);
+  background-size: cover;
+  background-color: #000;
+}
+.bg-img3 {
+  height: 500px;
+  position: relative;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./images/project_3.png);
+  background-size: cover;
+  background-color: #000;
+}
